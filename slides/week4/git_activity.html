@@ -224,6 +224,28 @@ __all other members__ (after the above is finished)
     
     to incorporate changes made in the remote repository 
 
+---
+# check the logs 
+
+__each member__
+
+- run command 
+
+    `git log` 
+    
+    to see the list of all the commits
+    
+- run the following two versions of the log command to see different format
+of the log list
+
+    `git log --pretty=format:"%h - %an, %ar : %s"`
+
+    `git log --pretty=format:"%h %s" --graph`
+    
+    figure out what the different %? stand for 
+    
+    
+
 
 ---
 # updating forks 
@@ -295,6 +317,10 @@ the `another_branch` is no longer needed so it can be removed
     `git push origin --delete another_branch`
     
     to remove the branch from the remote
+    
+- check the updated commit/merge logs
+
+    `git log --pretty=format:"%h %s" --graph`
     
     
     

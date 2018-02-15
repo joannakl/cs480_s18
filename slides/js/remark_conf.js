@@ -36,5 +36,5 @@ var slideshow = remark.create({
   //syntax highlighting options:
   //highlightLanguage: 'python',
   highlightLines: true,
-  highlightStyle: 'purebasic'
+  highlightStyle: 'github'
 }); 

@@ -28,7 +28,7 @@ This project is open for contributions as well.
 <p markdown="block">
 
 
-- if you are not comfortable with using git from the terminal, go through the [t]ryGit(https://try.github.io/levels/1/challenges/1) tutorial
+- if you are not comfortable with using git from the terminal, go through the [tryGit](https://try.github.io/levels/1/challenges/1) tutorial
 
 
 - make a contribution to Wikipedia or any other WikiCommons project

@@ -59,14 +59,11 @@ You are expected to know and remember the material from CSCI.UA.0101 and CSCI.UA
 - Linux and Linux based tools for software development 
 
 - Case studies of several open source projects
-
-<!-- 
     - small scale, single program projects (possibly humanitarian free open source projects - HFOSS)
 	- Mozilla software suit 
 	- Eclipse
 	- large scale, multi program projects (example OpenMRS, Sakai) 
---> 
-
+    
 - Licensing
     - types of licenses available and what is allowed
     - how to licenses your own work

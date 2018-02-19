@@ -14,7 +14,7 @@ Tue, 2/66
 Version control systems. 
 
 
-[slides](slides/week3/version_control_systems.md)  
+[slides](slides/week3/version_control_systems.html)  
 
 For resolving some potential future issues with Git and GitHub, you might 
 want to keep [git-flight-rules](https://github.com/k88hudson/git-flight-rules) on hand. <br>

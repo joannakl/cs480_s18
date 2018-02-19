@@ -10,7 +10,7 @@ Thu, 2/1
 <div class="column_materials">
 <p markdown="block">
 
-[Open Encyclopedia](slides/week3/open_encyclopedia.html)  
+[Open Encyclopedia](slides/week2/open_encyclopedia.html)  
 
 - discussion about Tom's presentation
 - reflections about _The Catherdral and The Bazaar_

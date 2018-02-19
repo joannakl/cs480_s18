@@ -112,7 +112,7 @@ There will be a midterm and a final exam. All exams are cumulative.
 __Missing an exam:__ There will be no make-up exams. Failure to take an exam counts as a zero grade on that exam. The only exception to this rule is for students who have a legitimate medical or personal emergency (documented). These students need to talk to the instructor as soon as possible (trying to excuse an exam absence a week after it happened will not work).
 
 
-# Academic Email Etiquette 
+# Academic Integrity Policy
 --- 
 
 I follow the department's 
@@ -124,7 +124,7 @@ of work into.
 
 
 
-# Academic Integrity Policy
+# Academic Email Etiquette
 --- 
 
 * Check the school email address on a regular basis. You can simply forward its content 

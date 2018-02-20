@@ -39,20 +39,20 @@ You are expected to know and remember the material from CSCI.UA.0101 and CSCI.UA
 --- 
 
 - Intro to open source: it's not only code
-    - open data,
-    - open hardware,
-    - open education,
-    - open government
+	- open data,
+	- open hardware,
+	- open education,
+	- open government
     - open health 
-    - ... 
+	- ... 
 - History and philosophy of open source
 
 - How to be a Fosser? 
     - types of contributions
     - how to get involved 
 - Review of tools commonly used in open source projects
-    - version control
-    - communication: IRC as a meeting platform, mailing lists, wikis/blogs
+	- version control
+	- communication: IRC as a meeting platform, mailing lists, wikis/blogs
     - bug and issue trackers 
     - documentation
     - collaborative development 
@@ -62,9 +62,9 @@ You are expected to know and remember the material from CSCI.UA.0101 and CSCI.UA
 
 <!-- 
     - small scale, single program projects (possibly humanitarian free open source projects - HFOSS)
-    - Mozilla software suit 
-    - Eclipse
-    - large scale, multi program projects (example OpenMRS, Sakai) 
+	- Mozilla software suit 
+	- Eclipse
+	- large scale, multi program projects (example OpenMRS, Sakai) 
 --> 
 
 - Licensing
@@ -91,19 +91,19 @@ beginning of the semester)
 
 Grades will be determined using the following scale:
 
-        A   95-100
-        A-  90-95
-        B+  87-90
-        B   83-87
-        B-  80-83
-        C+  76-80
-        C   72-76
-        D   65-72
-        F   less than 65
+        A 	95-100
+        A- 	90-95
+        B+ 	87-90
+        B 	83-87
+        B- 	80-83
+        C+ 	76-80
+        C 	72-76
+        D 	65-72
+        F 	less than 65
 
 
 The grade of *Incomplete* is reserved for students who, for legitimate and documented reason, miss the final exam. The grade of *Incomplete* **will not be given** to student who started falling behind in class. Those students should withdraw from the class or switch to *Pass/Fail* option. 
-        
+		
 
 # EXAMS
 ---

@@ -73,7 +73,7 @@ You are expected to know and remember the material from CSCI.UA.0101 and CSCI.UA
     - avoiding plagiarism
 
 
-For detailed schedule, see the [Daily](syllabus.html) tab of this page.
+For detailed schedule, see the [Daily](daily.html) tab of this page.
 
 
 

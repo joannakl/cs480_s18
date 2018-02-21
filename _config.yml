@@ -28,8 +28,12 @@ instructor_office_hours: "Mondays 9:30 - 11:00am, Thursdays 1:30 - 3:00pm,
 (or you can schedule an appointment if these times do not work for you)"  
 instructor_office_hours_location: "423 CIWW" 
 
-#tutor_location: "406 WWH"
-#tutor_schedule_link: "http://cims.nyu.edu/~joannakl/CSCI102_common/#tutoring"
+tutor_office_hours: "Mondays 10:00am - 12:00pm"
+tutor_name: "Sachin"
+
+
+tutor_location: "406 WWH"
+tutor_schedule_link: "http://cims.nyu.edu/~joannakl/CSCI102_common/#tutoring"
 
 
 current_course1_title: "CSCI 102 sec. 1"

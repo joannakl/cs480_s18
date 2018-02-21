@@ -17,6 +17,9 @@ title:
 {{ site.instructor_office_hours }} ({{ site.instructor_office_hours_location }})
 <br>
 
+<span class="name">Sachin:</span>
+{{ site.tutor_office_hours }} ({{ site.tutor_location}})
+<br>
 </p>
 
 

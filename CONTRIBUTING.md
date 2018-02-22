@@ -31,6 +31,8 @@ To check your work as you develop your fix, you may find the following tools hel
 
 ### Submitting a Fix
 
-Once you have the fix to your issue completed, make sure you push it to your forked repository.  
+Once you have the fix to your issue completed, push it to your forked repository.  `git pull` against the main repo to integrate changes made while you were fixing your issue.  Ensure there are no merge conflicts.  
+
+Once that's done, make a [pull request](https://github.com/joannakl/cs480_s18/pulls).  In the message, describe the changes you've made.  Reference the issue page in your message.  Other contributors will review your fix and ensure it's correct.  Once that's happened, Prof. Klukowska will merge your fix into the main repo.  
 
 

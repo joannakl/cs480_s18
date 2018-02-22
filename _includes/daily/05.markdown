@@ -4,7 +4,7 @@
 <div class="column_date">
 
 Class # 5 <br> 
-Tue, 2/66 
+Tue, 2/6 
 
 </div>
 

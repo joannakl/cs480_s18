@@ -1,30 +1,23 @@
 # Course website for CS480, Section 10 (Spring 2018)
----
+
 Currently under class exercise experiment. 
 Bugs to be fixed by students. 
 
+This site is built with [Jekyll](https://jekyllrb.com/) and is hosted on [GitHub Pages](https://pages.github.com/).
+
 ## Setup
-### MacOS
-```
-brew update
-brew install ruby
-gem install jekyll bundler
-```
+### [MacOS and Linux](https://jekyllrb.com/docs/installation/)
+### [Windows](https://jekyllrb.com/docs/windows/)
 
-### Linux
-```
-sudo apt-get update
-sudo apt-get install ruby ruby-dev make gcc
-gem install jekyll bundler
-```
-### Windows
-TBA.
-
-## Running
-In `_config.yml`, change this line: `baseurl: ""` 
+## Building and Running
 ```
 git clone https://github.com/joannakl/cs480_s18.git
 cd cs480_s18
+```
+In `_config.yml`, change the baseurl config to – `baseurl: ""`
+```
 jekyll serve
 ```
 Navigate to http://127.0.0.1:4000/
+
+Note: If you make any changes to  `_config.yml`, you have to restart the server for the changes to take place.

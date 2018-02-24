@@ -52,7 +52,7 @@ This course prepares students to become active participants in open source proje
 
 -  [Computer Science Education in the 21st Century](http://goo.gl/400cMX) by David A. Patterson, Commun. ACM 49, (3): 27-30 (March, 2006)
 
--  [The Rise of Open-Source Platform](http://www.enterprisetech.com/2015/11/12/the-rise-of-the-open-source-platform/) 
+-  [The Rise of the Open-Source Platform](http://www.enterprisetech.com/2015/11/12/the-rise-of-the-open-source-platform/) 
 
 
 

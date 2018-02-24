@@ -29,8 +29,8 @@ related to your grading, contact your instructor directly (office hours or email
 
 <p class="hang" markdown="1"><span class="emph">How to get help?</span> 
 Ask questions on discussion forums (Piazza)! Ask questions during lectures!
-Talk to instructor (Instrucor cannot help, unless instructor knows there is an issue). 
-See the instructors during posted office hours or set up an appointment!Also, you can ask your classmates about the questions.  
+Talk to us (We cannot help, unless we know there is an issue). 
+See the tutors and/or instructor during posted office hours or set up an appointment! Also, you can ask your classmates about the questions.  
 Make sure you let us know as soon as you feel lost in the course. Do not wait till you 
 start getting failing grades because it might be too late by then. 
 </p>

@@ -13,7 +13,7 @@ Thu, 2/1
 [Open Encyclopedia](slides/week2/open_encyclopedia.html)  
 
 - discussion about Tom's presentation
-- reflections about _The Catherdral and The Bazaar_
+- reflections about _The Cathedral and The Bazaar_
 - thinking about projects to which we might contribute
 - Wikipedia as an example of collaboratively developed project
     - how to figure out how to contribute

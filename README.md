@@ -18,6 +18,16 @@ In `_config.yml`, change the baseurl config to – `baseurl: ""`
 ```
 jekyll serve
 ```
+
+Alternatively, you can do
+```
+jekyll build
+open _site/index.html
+```
+
 Navigate to http://127.0.0.1:4000/
 
 Note: If you make any changes to  `_config.yml`, you have to restart the server for the changes to take place.
+
+## Contributing
+Please check out [this document](/CONTRIBUTING.md)

@@ -16,7 +16,7 @@ Thu, 1/25
 
 
 
-[History of Open Source]()  
+[History of Open Source](slides/week1/history.html)  
 
 - [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html) by Eric S Raymond <br>[PDF](http://www.unterstein.net/su/docs/CathBaz.pdf) 
 

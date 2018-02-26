@@ -13,21 +13,18 @@ This site is built with [Jekyll](https://jekyllrb.com/) and is hosted on [GitHub
 ```
 git clone https://github.com/joannakl/cs480_s18.git
 cd cs480_s18
-```
-In `_config.yml`, change the baseurl config to – `baseurl: ""`
-```
-jekyll serve
-```
-
-Alternatively, you can do
-```
-jekyll build
+jekyll build --watch
 open _site/index.html
 ```
 
-Navigate to http://127.0.0.1:4000/
+Alternatively, if you want to build with a local webserver:
+```
+# in `_config.yml`, change the baseurl config to – `baseurl: ""`
+jekyll serve
+# navigate to http://127.0.0.1:4000/
+```
 
-Note: If you make any changes to  `_config.yml`, you have to restart the server for the changes to take place.
+Note: If you make any changes to  `_config.yml`, you have to restart the server or run `jekyll build --watch` for the changes to take place.
 
 ## Contributing
-Please check out [this document](/CONTRIBUTING.md)
+Please see [this document](/CONTRIBUTING.md) for instructions on how to contribute

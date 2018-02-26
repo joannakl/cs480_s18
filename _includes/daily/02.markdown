@@ -22,7 +22,7 @@ Thu, 1/25
 
 - [Why Open Source Misses the Point of Free Software](http://www.gnu.org/philosophy/open-source-misses-the-point.html) by Richard Stallman 
 
-- [GitHub Markdown Cheatsheet]  (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+- [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
 
 </p>

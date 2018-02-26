@@ -39,7 +39,7 @@ current_course2_link: "https://joannakl.github.io/cs201_s18/"
 current_course3_title: "CSCI 480 sec. 10"
 current_course3_link: "https://joannakl.github.io/cs480_s18/"
 
-midterm_exam_date: "TBD"
+midterm_exam_date: "Thursday, March 8th"
 final_exam_date: "TBD"
 final_exams_link: "http://cs.nyu.edu/dynamic/courses/exams/"
 
@@ -67,7 +67,7 @@ book_opt_3_author: "Greg DeKoenigsberg, Chris Tyler, Karsten Wade, Max Spevack, 
 book_opt_3_edition: "" 
 book_opt_3_link: "https://quaid.fedorapeople.org/TOS/Practical_Open_Source_Software_Exploration/html/"
 book_opt_3_note: "(it hasn't been updated since 2010, but there is some good stuff in there"
-book_opt_3_image: "" 
+book_opt_3_image: "https://quaid.fedorapeople.org/TOS/Practical_Open_Source_Software_Exploration/html-single/Common_Content/images/title_logo.svg" 
 
 
 

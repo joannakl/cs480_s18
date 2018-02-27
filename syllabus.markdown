@@ -69,11 +69,11 @@ You are expected to know and remember the material from CSCI.UA.0101 and CSCI.UA
 
 - Licensing
     - types of licenses available and what is allowed
-    - how to licenses your own work
+    - how to license your own work
     - avoiding plagiarism
 
 
-For detailed schedule, see the [Daily](syllabus.html) tab of this page.
+For detailed schedule, see the [Daily](daily.html) tab of this page.
 
 
 

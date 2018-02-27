@@ -22,9 +22,11 @@ Material:
 
 - Videos: 
     - [What is Open Source](https://youtu.be/7c0IrsDsNaw) by Mozilla
-        Open source is a movement and a model -- for making and sharing collaboratively and publicly.
+        
+	Open source is a movement and a model -- for making and sharing collaboratively and publicly.
     - [Open Source Basics](https://youtu.be/Tyd0FO0tko8) by Intel Software 
-        A simple explanation of how open source projects manage change as well as the structure, 
+        
+	A simple explanation of how open source projects manage change as well as the structure, 
         roles, and terminology of open source software.
 - Readings:
     - [{{ site.book_opt_1 }}]( {{ site.book_opt_1_link }}), chapter 1
@@ -39,7 +41,7 @@ Material:
 <div class="column_assign">
 <p markdown="block">
 
-- complete this [questionnnaire](https://goo.gl/forms/w53sDFkfXEzlrzNi2) - if you do not have a GitHub account, create one first
+- complete this [questionnaire](https://goo.gl/forms/w53sDFkfXEzlrzNi2) - if you do not have a GitHub account, create one first
 
 
 

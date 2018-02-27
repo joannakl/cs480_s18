@@ -13,7 +13,7 @@ Thu, 2/1
 [Open Encyclopedia](slides/week2/open_encyclopedia.html)  
 
 - discussion about Tom's presentation
-- reflections about _The Catherdral and The Bazaar_
+- reflections about _The Cathedral and The Bazaar_
 - thinking about projects to which we might contribute
 - Wikipedia as an example of collaboratively developed project
     - how to figure out how to contribute
@@ -36,9 +36,7 @@ Thu, 2/1
     - explain (in your own words) the difference between software development following
     the cathedral model and software development following the bazaar model; which
     of the two environments would you be more comfortable
-    - _The Cathedral and The Bazaar_ essay has 19 "lessons"; pick two that you found most
-    interesting, intriguing, telling, or that you simply liked; quote them in your blog and try
-    to explain what they supposed to mean 
+    - _The Cathedral and The Bazaar_ essay has 19 “lessons”. Pick two of these that you find to be the most intriguing, interesting, telling, or ones that you simply liked. Quote them in your blog and try to explain what they’re supposed to mean.  
     
 
 

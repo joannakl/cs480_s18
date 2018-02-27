@@ -83,7 +83,7 @@ For detailed schedule, see the [Daily](daily.html) tab of this page.
 
 Your grade will be based on: 
 
-* exams and quizzes (50%): pop-quizzes (5%), one midterm exam (200%) and the final (25%),  
+* exams and quizzes (50%): pop-quizzes (5%), one midterm exam (20%) and the final (25%),  
 * contributions and homeworks (40%): these include contributions to existing open source projects (details to be discussed at the
 beginning of the semester)  
 * participation (10%): weekly posts about contributions and activities, in class discussions and presentations

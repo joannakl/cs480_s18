@@ -10,6 +10,14 @@ Thu, 3/1
 <div class="column_materials">
 <p markdown="block">
 
+Project group presentations: 
+- what the project is about
+- why you picked that particular project
+- how the group assessed the _health_ of the project
+- what is your plan for getting started 
+
+List of projects: 
+- TBD
 
 </p>
 </div>

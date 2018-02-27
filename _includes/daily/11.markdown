@@ -11,7 +11,7 @@ Tue, 2/27
 <div class="column_materials">
 <p markdown="block">
 
-
+Invited speaker: [__Aurelia Moser__](http://aureliamoser.com/) from Mozilla
 
 </p>
 </div>

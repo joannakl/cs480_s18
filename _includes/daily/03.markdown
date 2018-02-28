@@ -11,7 +11,7 @@ Tue, 1/30
 <div class="column_materials">
 <p markdown="block">
 
-Invited speaker: __Tom Callaway__ from BlueFish 
+Invited speaker: __Tom Callaway__ from RedHat 
 
 
 </p>

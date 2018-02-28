@@ -10,6 +10,10 @@ Thu, 2/15
 <div class="column_materials">
 <p markdown="block">
 
+`git` activity - hands on practice 
+
+
+[slides](slides/week4/git_activity.html)  
 
 </p>
 </div>

@@ -4,7 +4,7 @@
 <div class="column_date">
 
 Class # 5 <br> 
-Tue, 2/66 
+Tue, 2/6 
 
 </div>
 
@@ -14,7 +14,7 @@ Tue, 2/66
 Version control systems. 
 
 
-[slides](slides/week3/version_control_systems.md)  
+[slides](slides/week3/version_control_systems.html)  
 
 For resolving some potential future issues with Git and GitHub, you might 
 want to keep [git-flight-rules](https://github.com/k88hudson/git-flight-rules) on hand. <br>
@@ -28,7 +28,7 @@ This project is open for contributions as well.
 <p markdown="block">
 
 
-- if you are not comfortable with using git from the terminal, go through the [t]ryGit(https://try.github.io/levels/1/challenges/1) tutorial
+- if you are not comfortable with using git from the terminal, go through the [tryGit](https://try.github.io/levels/1/challenges/1) tutorial
 
 
 - make a contribution to Wikipedia or any other WikiCommons project

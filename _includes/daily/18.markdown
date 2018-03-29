@@ -13,7 +13,7 @@ Thu, 3/29
 Linux basics, file system, scripting.
 
 
-(slides)[https://docs.google.com/presentation/d/16_IA7T0sWS7FwyHHuJmtCVy7Jnc7s18eTjkk4kylwoc/preview#slide=id.p14] by
+[slides](https://docs.google.com/presentation/d/16_IA7T0sWS7FwyHHuJmtCVy7Jnc7s18eTjkk4kylwoc/preview#slide=id.p14) by
 Jeffrey Korn from CSCI-GA.2246-001 (Open Source Tools)
 
 

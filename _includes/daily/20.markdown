@@ -1,0 +1,25 @@
+
+<div class="lecture2">
+<div class="column_date">
+
+Class # 20 <br>
+Thu, 4/5
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Workshop day - progress on projects.
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+</p>
+</div>
+
+</div>

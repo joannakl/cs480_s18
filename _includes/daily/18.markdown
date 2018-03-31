@@ -25,6 +25,34 @@ Jeffrey Korn from CSCI-GA.2246-001 (Open Source Tools)
 <div class="column_assign">
 <p markdown="block">
 
+Blog posts:
+- come up with three questions for Danna for Tuesday
+- describe the progress that you group made in working on the project,
+are you (as an individual) able to actively participate in what the group
+is working on? what are your specific task in the work on the project?
+- report on any additional contributions
+- report on any open data events that you might have attended this week
+
+Contributions list: in your blog create a file called `contributions.md`.
+The document should contain a table with a list of all of your Contributions
+so far. The table columns should be "week #", "contribution", "contribution type".
+The first column should just include the week number in which you made your Contributions.
+The second column should contain the name of the project/site to which the contribution
+was made and a link to your specific contribution and a brief description ("article edit",
+"issue reported", "pull request", ...). The third column should
+state what type of contribution in is: "course website", "Wikipedia", "Other".   
+
+To incorporate this document into your blog, edit the `layouts/default.html` document
+and add `<a href="{{ site.baseurl }}/contributions">Contributions</a>` after line
+31 (or after the line that contains the link to the About page, `<a href="{{ site.baseurl }}/about">About</a>`).
+
+Make sure that you have access to Linux-like environment:
+- a terminal on Mac is fine
+- a terminal on Linux is fine
+- for Windows, you can use the Ubuntu subsystem, setup a virtual machine or use
+Cloud 9 (talk to me if you need help with any of that - I have a virtual machine image
+  that you can use, I also have a Cloud 9 team account that I can give you access to). 
+
 </p>
 </div>
 

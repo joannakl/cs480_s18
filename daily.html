@@ -1,6 +1,6 @@
 ---
-layout: default 
-days: 
+layout: default
+days:
     - "01"
     - "02"
     - "03"
@@ -14,24 +14,30 @@ days:
     - "11"
     - "12"
     - "NYC_OpenDataWeek"
-    - "13" 
-    - "14" 
-    
+    - "13"
+    - "14"
+    - "15"
+    - "16"
+    - "17"
+    - "18"
+    - "19"
+    - "20" 
+
 ---
 
 <div class="titles">
     <div class="column_date">
         Date
     </div>
-    
+
     <div class="column_materials">
-        Material Covered, Notes, Handouts and Links 
+        Material Covered, Notes, Handouts and Links
     </div>
-    
+
     <div class="column_assign">
         Readings, Assignments, Homework
     </div>
-</div>  
+</div>
 
 {% comment %}
 
@@ -43,13 +49,9 @@ days:
     {% assign file_name = "daily/" | append:  i  | append: ".markdown" %}
     {% capture my_include %}{% include {{ file_name }} %}{% endcapture %}
     {{ my_include | markdownify }}
-     
+
 {% endfor %}
 
 
 <br>
 <br>
-        
-        
-        
-        

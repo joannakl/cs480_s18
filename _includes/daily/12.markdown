@@ -17,7 +17,15 @@ Project group presentations:
 - what is your plan for getting started 
 
 List of projects: 
-- TBD
+
+- brackets
+- django
+- jupyter
+- moment
+- PDF.js
+- phaser
+- qutebrowser
+- zulip
 
 </p>
 </div>

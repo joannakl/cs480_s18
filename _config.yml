@@ -45,6 +45,7 @@ final_exams_link: "http://cs.nyu.edu/dynamic/courses/exams/"
 
 piazza_site: https://piazza.com/
 gradescope_site: "https://gradescope.com/"
+github_site: https://github.com/nyu-ossd-s18/
 
 book_opt_1: "Producing Open Source Software"
 book_opt_1_author: "Karl Fogel"

@@ -72,16 +72,16 @@ book_opt_3_image: "https://quaid.fedorapeople.org/TOS/Practical_Open_Source_Soft
 
 
 
-book_opt_4: "The Linux Command Line, "
-book_opt_4_author: "William Shotts, "
+book_opt_4: "The Linux Command Line "
+book_opt_4_author: "William Shotts "
 book_opt_4_edition: "" 
 book_opt_4_link: "http://linuxcommand.org/tlcl.php"
 book_opt_4_note: ""
 book_opt_4_image: "http://linuxcommand.org/images/linuxcommandline.png" 
 
 
-book_opt_5: "ProGit, "
-book_opt_5_author: "Scott Chacon and Ben Straub, "
+book_opt_5: "ProGit "
+book_opt_5_author: "Scott Chacon and Ben Straub "
 book_opt_5_edition: "2nd edition" 
 book_opt_5_link: "https://git-scm.com/book/en/v2"
 book_opt_5_note: ""

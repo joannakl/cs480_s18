@@ -45,10 +45,10 @@ state what type of contribution in is: "course website", "Wikipedia", "Other".
 To incorporate this document into your blog, edit the `layouts/default.html` document
 and add
 
-`<a href="{{ site.baseurl }}/contributions">Contributions</a>`
+`<a href="``{```{ site.baseurl }```}``/contributions">Contributions</a>`
 
 after line
-31 (or after the line that contains the link to the About page, `<a href="{{ site.baseurl }}/about">About</a>`).
+31 (or after the line that contains the link to the About page, `<a href="``{```{ site.baseurl }```}``/about">About</a>`).
 
 <br>
 

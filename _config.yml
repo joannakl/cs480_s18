@@ -56,7 +56,7 @@ book_opt_1_image: "http://producingoss.com/images/producingoss-cover-small.gif"
 
 book_opt_2: "The Architecture of Open Source Applications"
 book_opt_2_author: "Amy Brown and Greg Wilson (editors)"
-book_opt_2_edition: ""
+book_opt_2_edition: "" 
 book_opt_2_link: "http://www.aosabook.org/en/index.html"
 book_opt_2_note: ""
 book_opt_2_image: "http://www.aosabook.org/images/cover1.jpg"

@@ -1,18 +1,16 @@
 
-<div class="lecture2">
+<div class="important">
 <div class="column_date">
 
-Class # 10 <br> 
-Thu, 2/22
+Class # 14 <br> 
+Thu, 3/8
 
 </div>
 
 <div class="column_materials">
 <p markdown="block">
 
-no class meeting 
-
-
+Midterm exam
 
 </p>
 </div>

@@ -48,7 +48,7 @@ This course prepares students to become active participants in open source proje
 # Why Open Source Matters and Why Should You Care? 
 ---
 
-- [Webopedia: software](http://www.webopedia.com/TERM/S/software.html) definition, software vs. hardware 
+- [Webopedia](http://www.webopedia.com/TERM/S/software.html) : software definition, software vs. hardware 
 
 -  [Computer Science Education in the 21st Century](http://goo.gl/400cMX) by David A. Patterson, Commun. ACM 49, (3): 27-30 (March, 2006)
 
@@ -67,7 +67,7 @@ This course prepares students to become active participants in open source proje
 # Important Dates
 ---
 
-<p class="hang" markdown="1"> **Midterm Exam (these dates may change is there are any schedule changes):** <br>
+<p class="hang" markdown="1"> **Midterm Exam (these dates may change if there are any schedule changes):** <br>
 {{ site.midterm_exam_date }} 
 </p> 
 <p class="hang" markdown="1"> **Final Exam:**

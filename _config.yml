@@ -28,8 +28,12 @@ instructor_office_hours: "Mondays 9:30 - 11:00am, Thursdays 1:30 - 3:00pm,
 (or you can schedule an appointment if these times do not work for you)"
 instructor_office_hours_location: "423 CIWW"
 
-#tutor_location: "406 WWH"
-#tutor_schedule_link: "http://cims.nyu.edu/~joannakl/CSCI102_common/#tutoring"
+tutor_office_hours: "Mondays 10:00am - 12:00pm"
+tutor_name: "Sachin"
+
+
+tutor_location: "406 WWH"
+tutor_schedule_link: "http://cims.nyu.edu/~joannakl/CSCI102_common/#tutoring"
 
 
 current_course1_title: "CSCI 102 sec. 1"
@@ -45,6 +49,7 @@ final_exams_link: "http://cs.nyu.edu/dynamic/courses/exams/"
 
 piazza_site: https://piazza.com/
 gradescope_site: "https://gradescope.com/"
+github_site: https://github.com/nyu-ossd-s18/
 
 book_opt_1: "Producing Open Source Software"
 book_opt_1_author: "Karl Fogel"
@@ -54,9 +59,9 @@ book_opt_1_note: ""
 book_opt_1_image: "http://producingoss.com/images/producingoss-cover-small.gif"
 
 
-book_opt_2: "The Architecture of Open Source Applications"
-book_opt_2_author: "Amy Brown and Greg Wilson (editors)"
-book_opt_2_edition: "" 
+book_opt_2: "The Architecture of Open Source Applications, "
+book_opt_2_author: "Amy Brown and Greg Wilson (editors), "
+book_opt_2_edition: ""
 book_opt_2_link: "http://www.aosabook.org/en/index.html"
 book_opt_2_note: ""
 book_opt_2_image: "http://www.aosabook.org/images/cover1.jpg"

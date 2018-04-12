@@ -34,8 +34,8 @@ List of projects:
 <p markdown="block">
 
 Team assesment and plan:
-- Based on the team, what are the strenghts and weaknesses of the team in terms of
-being able to participate in the project you selected? (Use your team-mates blog posts to asses
+- Based on the team, what are the strengths and weaknesses of the team in terms of
+being able to participate in the project you selected? (Use your teammates' blog posts to assess
 their strengths and weaknesses)
 - Come up with a common meeting time (2 hours block outside of class) to which all
 team members can commit. Come up with an alternative meeting time (2 hours block outside of  

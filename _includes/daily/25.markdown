@@ -15,6 +15,7 @@ Project presentations:
 
 - qutebrowser
 - phaser
+- jupyter
 
 </p>
 </div>

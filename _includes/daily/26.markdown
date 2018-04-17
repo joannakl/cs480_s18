@@ -12,9 +12,9 @@ Thu, 4/26
 
 Project presentations:
 
--
--
-- 
+- zulip
+- moment 
+- brackets
 
 </p>
 </div>

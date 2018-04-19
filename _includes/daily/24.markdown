@@ -10,6 +10,26 @@ Thu, 4/19
 <div class="column_materials">
 <p markdown="block">
 
+(Software) Licenses
+
+[slides](slides/week12/licenses.html)
+
+Reading list:
+
+- [OSI Frequently Answered Questions](https://opensource.org/faq)
+
+- Wikipedia articles:
+  - [Software license](https://en.wikipedia.org/wiki/Software_license#Software_licenses_and_copyright_law)
+  - [Copyleft license](https://en.wikipedia.org/wiki/Copyleft)
+  - [Permissive software license](https://en.wikipedia.org/wiki/Permissive_software_licence)
+
+- [The Legal Side of Open Source](https://opensource.guide/legal/)
+
+
+- [What is copyleft?](https://opensource.com/resources/what-is-copyleft)
+by Ben Cotton
+
+
 
 
 </p>

@@ -12,10 +12,14 @@ Thu, 4/12
 
 Linux basics, file system, scripting.
 
+
 [slides (finish from two weeks ago)](https://docs.google.com/presentation/d/16_IA7T0sWS7FwyHHuJmtCVy7Jnc7s18eTjkk4kylwoc/preview#slide=id.p14) by
 Jeffrey Korn from CSCI-GA.2246-001 (Open Source Tools)
 [slides](https://docs.google.com/presentation/d/1vxEwFMY1HZX8G9tLUoiM-ImTecbyGnyKdeddeyzLMxU/preview#slide=id.p7) _Processes and Filters_ by
 Jeffrey Korn from CSCI-GA.2246-001 (Open Source Tools)
+
+
+[slides](slides/week11/useful_commands.html)
 
 Other readings:
 

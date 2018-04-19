@@ -13,9 +13,8 @@ Tue, 5/1
 
 Project presentations:
 
--
--
--
+- django
+- therasology 
 
 </p>
 </div>

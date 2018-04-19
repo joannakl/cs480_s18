@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Droid+Sans');
 @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
 
-body { 
+body {
     font-family: 'Droid Sans', sans-serif;
     margin:0;
     padding:0;
@@ -34,6 +34,12 @@ h1, h2, h3 {
     font-size: 70%;
 }
 
+.footnote {
+    position: absolute;
+    bottom: 0em;
+    font-size: 70%;
+}
+
 .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
 
 /*remove extra space from top of the slide*/
@@ -55,14 +61,14 @@ h1, h2, h3 {
     text-align:center;
     width: 70%;
 }
-.highlight{ 
+.highlight{
     background-color: #FECA3F;
 }
 
 
 .section {
     background-color: #CABFDC;
-    padding: 5em; 
+    padding: 5em;
 }
 
 /* code output formatting */

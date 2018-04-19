@@ -39,6 +39,19 @@ by Ben Cotton
 <p markdown="block">
 
 
+__Presentation content:__
+- brief intro to the project
+- how complicated was the installation of development environment
+- what went wrong
+- what went well
+- summary/descriptions of types of contributions that the team made
+- how easy was it to collaborate within the team
+- if you were doing this again, would you pick the same or different project
+
+
+
+
+
 </p>
 </div>
 

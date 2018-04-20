@@ -38,6 +38,21 @@ by Ben Cotton
 <div class="column_assign">
 <p markdown="block">
 
+Complete __peer evaluations__ the link was sent to you through Piazza.
+
+
+__Blog posts for this week:__
+
+- report on team project progress - concentrating on your own contributions to the team
+
+- look at the license for the project that your team is working on and determine
+what are the rules established by that license (what can one do, what is not
+  allowed, what must one do)
+
+- You should also update your "contributions" table with any new contributions
+(do not include the team work in there).
+
+
 
 __Presentation content:__
 - brief intro to the project

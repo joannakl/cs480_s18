@@ -47,8 +47,6 @@ Blog posts for this week:
 
 - report on team project progress - concentrating on your own contributions to the team
 
--
-
 - You should also update your "contributions" table with any new contributions
 (do not include the team work in there).
 

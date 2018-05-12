@@ -18,7 +18,7 @@ layout: default
 |<img src="{{site.book_opt_5_image}}" name="Book" border="0px" width="120px">| **[{{ site.book_opt_5 }}]( {{ site.book_opt_5_link }})** {{ site.book_opt_5_edition }}<br> {{ site.book_opt_5_author }} <br> {{ site.book_opt_5_note }}  |
 
 
-# Open Source _News Sites_ 
+# Open Source News Sites 
 ---
 
 - [OpenSource.com](https://opensource.com/) 

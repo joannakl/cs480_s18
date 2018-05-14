@@ -2,7 +2,7 @@
 title: CSCI-UA 480 (Open Source Software Development)
 description: "Course website for CSCI-UA 201 (Computer Systems Organization) course."
 
-baseurl: "/cs480_s18" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://joannakl.github.io/cs480_s18" # the base hostname & protocol for your site, e.g. http://example.com
 
 markdown: kramdown
